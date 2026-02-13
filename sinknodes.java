@@ -12,8 +12,7 @@ public class sinknodes {
             }
             if (zero == arr.length) {
                 System.out.println("Sink Nodes " + (char) (65 + i)); //explicit type casting 
-            }
-            
+            } 
             
         }
     }
